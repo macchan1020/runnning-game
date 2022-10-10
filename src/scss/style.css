@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+}
+
+canvas {
+  background-image: url(../images/bgsummer.jpg);
+  background-size: cover;
+}
+
+.display, #help-message, #howto {
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
